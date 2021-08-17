@@ -1,0 +1,29 @@
+body {
+	background-color: #262655;
+}
+
+
+
+h1 {
+
+	font-family: monospace;
+	font-size: 32px;
+	color: #800000;
+}
+h3 {
+	font-family: fantasy;
+	font-size: 20px;
+	color: #00FFFF;
+   }
+li{
+	font-family: cursive;
+	
+   }
+dt{
+	font-family: sans-serif;
+	
+   }
+dd{
+	font-family: static;
+	
+   }
